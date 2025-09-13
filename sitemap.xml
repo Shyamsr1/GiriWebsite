@@ -9,28 +9,4 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- About Page -->
-  <url>
-    <loc>https://www.smtgirija.co.in/about.html</loc>
-    <lastmod>2025-08-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Contact Page -->
-  <url>
-    <loc>https://www.smtgirija.co.in/contact.html</loc>
-    <lastmod>2025-08-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Gallery/Projects Page -->
-  <url>
-    <loc>https://www.smtgirija.co.in/gallery.html</loc>
-    <lastmod>2025-08-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
 </urlset>
