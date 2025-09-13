@@ -3,7 +3,7 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://smtgirija.co.in/</loc>
+    <loc>https://www.smtgirija.co.in/</loc>
     <lastmod>2025-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -11,7 +11,7 @@
 
   <!-- About Page -->
   <url>
-    <loc>https://smtgirija.co.in/about.html</loc>
+    <loc>https://www.smtgirija.co.in/about.html</loc>
     <lastmod>2025-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -19,7 +19,7 @@
 
   <!-- Contact Page -->
   <url>
-    <loc>https://smtgirija.co.in/contact.html</loc>
+    <loc>https://www.smtgirija.co.in/contact.html</loc>
     <lastmod>2025-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -27,7 +27,7 @@
 
   <!-- Gallery/Projects Page -->
   <url>
-    <loc>https://smtgirija.co.in/gallery.html</loc>
+    <loc>https://www.smtgirija.co.in/gallery.html</loc>
     <lastmod>2025-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
