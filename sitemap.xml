@@ -9,4 +9,25 @@
     <priority>1.0</priority>
   </url>
 
+<!-- Achievements section -->
+  <url>
+    <loc>https://www.smtgirija.co.in/#Achievements</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Gallery section -->
+  <url>
+    <loc>https://www.smtgirija.co.in/#Gallery</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact section -->
+  <url>
+    <loc>https://www.smtgirija.co.in/#Contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
