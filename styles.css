@@ -54,6 +54,17 @@ h2{font-family:Merriweather,serif;font-size:1.9rem;margin:0 0 18px}
 .list li{padding:12px 14px;border:1px solid #212134;border-radius:12px;background:#13131b}
 .muted{color:var(--muted)}
 
+
+
+/* Bigger font just for Achievements text */
+#Achievements .list li,
+#achievements .list li {
+  font-size: 1.2rem;   /* ~19px, adjust to taste */
+  line-height: 1.6;    /* improves readability */
+}
+
+
+
 /* ---- Achievements ---- */
 
 /* Stack images, already in your file — keep */
