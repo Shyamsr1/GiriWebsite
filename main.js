@@ -35,7 +35,8 @@ const YT_LINKS = [
   "https://www.youtube.com/watch?v=ydPrS3Z_erU",
   "https://www.youtube.com/watch?v=4VpVaw68I4s",
   "https://www.youtube.com/watch?v=n6_GZhRodHw&list=RDn6_GZhRodHw&start_radio=1",
-  "https://www.youtube.com/watch?v=8PCnKdXJFaE&list=RD8PCnKdXJFaE&start_radio=1"
+  "https://www.youtube.com/watch?v=8PCnKdXJFaE&list=RD8PCnKdXJFaE&start_radio=1",
+  "https://www.youtube.com/watch?v=tf2U_fnDao4"
 ];
 
 /***** 2) Robust ID extraction + dedupe *****/
